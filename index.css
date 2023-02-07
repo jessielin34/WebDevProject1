@@ -1,0 +1,16 @@
+body {
+    font-family: "Gill Sans";
+    background-color: #DEC3CB;
+    text-align: center;
+    border: 2px solid powderblue;
+    padding: 30px;
+  }
+  
+a {
+    text-decoration: none;
+    color: rgb(17, 146, 161);
+    background-color: lavender;
+    padding: 10px;
+    border-radius: 25px;
+    margin: 20px;
+}
